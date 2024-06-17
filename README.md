@@ -26,7 +26,7 @@ contract SudigitalLabsToken is ERC20DropVote {
 }
 ```
 
-Change `SudigitalLabs` to the name of your contract.
+Change `SudigitalLabsToken` to the name of your contract.
 
 ## Building the project
 
